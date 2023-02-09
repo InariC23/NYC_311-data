@@ -1,3 +1,4 @@
+-----Finding out how many incidents occured between 2019 and 2021----
 WITH year_query 
 AS
 (SELECT
